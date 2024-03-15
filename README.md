@@ -1,6 +1,7 @@
 # Dynamic Quest Generation
 ## Using a fine-tuned GPT model to craft customised quests in a 3D, RPG style video game 
 
+**Note**: Because of the large project size, the full repo can be found at the following link: https://git.arts.ac.uk/22012837/ThesisProject
 
 ## Overview
 
