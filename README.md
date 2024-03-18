@@ -3,6 +3,8 @@
 
 **Note**: Because of the large project size, the full repo can be found at the following link: https://git.arts.ac.uk/22012837/ThesisProject
 
+For an in-depth explanation of the research process, please check out the *Research Weblog* element in the repo. 
+
 ## Overview
 
 This is a 3D, RPG style game set in a woodland environment. The player controls Fox, a villager in this small town. 
