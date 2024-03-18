@@ -1,9 +1,5 @@
 # Research Weblog - Dynamic Quest Generation Architecture
 
-### Eva Hayek, 22012837 - MSc Creative Computing 2022-2023
-
-**Video Link**: https://drive.google.com/file/d/1lnGdP4NP9kbcIkpfoBTkbZQ15Qdlkt5i/view?usp=sharing
-
 ## Introduction
 This research weblog outlines the development and research process for this project. I've chosen to separate this documentation into separate sections, each encompassing one area of development. There are two main categories: 
 
