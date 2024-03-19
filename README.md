@@ -3,7 +3,7 @@
 
 **Note**: Because of the large project size, the full repo can be found at the following link: https://git.arts.ac.uk/22012837/ThesisProject
 
-For an in-depth explanation of the research process, please check out the *Research Weblog* element in the repo. 
+For an in-depth explanation of the research process and links to resources used, please check out the *Research Weblog* element in the repo. 
 
 ## Overview
 
