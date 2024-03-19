@@ -6,10 +6,6 @@ This research weblog outlines the development and research process for this proj
 1. Development of the Unity game 
 2. The research process for the GPT model integration (including fine-tuning and testing)
 
-I've decided to take this approach for the following reasons: the first is that throughout the development of this project, I also had unforeseen personal circumstances to contend with. As a result, I was only able to work on this project in chunks rather than continuously, and some weeks I had very little time to make progress. I was fortunate to receive an extenuating circumstances extension (EC) which allowed me the time I needed to focus on this project. 
-
-The second reason is that this was a relatively large project in scope that divided naturally into the two categories above, each with their respective subcategories. As some weeks I was working on both parts, it feels more organic and coherent to the overall narrative to explain the process for each element independently. 
-
 **Note**: all links and Unity Asset Store links used in the development of this project can be found at the end of this document. 
 
 ## Inspiration 
