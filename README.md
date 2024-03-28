@@ -9,7 +9,7 @@ For an in-depth explanation of the research process and links to resources used,
 
 This is a 3D, RPG style game set in a woodland environment. The player controls Fox, a villager in this small town. 
 
-The main premise of this game is that the player crafts their own quests using the dynamic quest generation architecture. Using a in-game journal, the player enters thoughts which makes an API call to the GPT model and generates a unique quest tailored to the input. The model itself is fine-tuned using a training dataset of input/quest examples, which aim to paint a good picture of both the details of the game world and the desired tone and output format of the quests. 
+The main premise of this game is that the player crafts their own quests using the dynamic quest generation architecture. Using a in-game journal, the player enters thoughts which makes an API call to the OpenAI GPT model and generates a unique quest tailored to the input. The model itself is fine-tuned using a training dataset of input/quest examples, which aim to paint a good picture of both the details of the game world and the desired tone and output format of the quests. 
 
 The model outputs a *quest series*, which is composed of one or several *quest* objects. A quest object can be either to collect coins, talk to an NPC or find an object in the game world. The game's code then translates this output into actionable and playable quests in the game, allowing the player to experience their tailored quest start to finish. 
 
